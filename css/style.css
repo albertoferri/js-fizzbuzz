@@ -19,7 +19,7 @@ body{
     height: 80px;
 
     border: solid 1px black;
-    background-color: #1389b2;
+    /* background-color: #1389b2; */
 }
 
 .square:last-child{
